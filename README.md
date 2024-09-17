@@ -1,2 +1,2 @@
-# ConnecTo
-##SignLanguage Translator
+## ConnecTo
+# SignLanguage Translator
